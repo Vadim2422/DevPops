@@ -3,6 +3,11 @@
         "cschleiden.vscode-github-actions",
         "formulahendry.github-actions",
         "me-dutour-mathieu.vscode-github-actions",
-        "codezombiech.gitignore"
+        "codezombiech.gitignore",
+        "redhat.vscode-yaml",
+        "felixrieseberg.vsc-travis-ci-status",
+        "hbenl.vscode-test-explorer",
+        "vscjava.vscode-java-test",
+        "humao.rest-client"
     ]
 }
